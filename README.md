@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ezequiel Lobo
+# 👨‍💻 Ezequiel Lobo
 
 **`Desenvolvedor Backend`**
 
