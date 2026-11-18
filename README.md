@@ -1,31 +1,19 @@
 # Ezequiel Lobo
 
-**`Desenvolvedor Backend`**
+**Software Engineer · Desenvolvimento de produtos e IA aplicada**
 
-Graduando em Ciência da Computação, com formação técnica prévia em
-Informática e atuação em desenvolvimento web utilizando .NET e Angular,
-incluindo projetos com arquitetura limpa e MVC.  Experiência em
-resolução de problemas, arquitetura de banco de dados e testes de
-software, aliando conhecimentos acadêmicos e práticos desde o ensino
-técnico.
+Sou bacharel em Ciência da Computação e desenvolvo soluções corporativas na Daten Tecnologia, da análise de requisitos à entrega. Uso IA para apoiar a implementação e os testes, com revisão humana e validações de CI/CD no Azure DevOps.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-lobo-a1336b326/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=ezeklobo.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ezequiel-lobo-a1336b326/) · [E-mail](mailto:ezeklobo.dev@gmail.com)
 
-### 📊 Estatísticas
+## Projetos em destaque
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ezeklobo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+| Projeto | O que desenvolvi | Links |
+| --- | --- | --- |
+| **NexusClass** | Gestão da rotina de professores. O Gemini apoia dúvidas sobre atividades e, em um fluxo separado, sugere notas e feedback por rubrica para revisão do tutor. | [Código](https://github.com/EzekLobo/nexusclass) · [Demo sem login](https://nexusclass.vercel.app/demo) |
+| **Evolua** | Plataforma de estudo com revisão espaçada e criação de atividades com apoio de IA. A importação valida a estrutura dos pacotes e mostra as referências para conferência. | [Código](https://github.com/EzekLobo/Evolua) · [Demo](https://evolua-cyan.vercel.app) |
+| **InventoryRFID** | Protótipo de inventário patrimonial com leitura RFID e auditorias que comparam os itens esperados com os detectados. | [Código](https://github.com/EzekLobo/inventory-rfid) |
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezeklobo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## Experiência corporativa
+
+Na **Daten Tecnologia**, contribuí para a fundação do **Banco de Talentos** e para o desenho de uma triagem assistida por IA com evidências e revisão humana. No **SGPI**, aprimorei o guia interativo de mapeamento de dados pessoais e a identificação de pendências. O código dos dois projetos é privado.
