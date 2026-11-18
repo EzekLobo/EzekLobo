@@ -1,18 +1,30 @@
 # Ezequiel Lobo
 
-**Software Engineer · Desenvolvimento de produtos e IA aplicada**
+**Software Engineer**
 
-Sou bacharel em Ciência da Computação e desenvolvo soluções corporativas na Daten Tecnologia, da análise de requisitos à entrega. Uso IA para apoiar a implementação e os testes, com revisão humana e validações de CI/CD no Azure DevOps.
+Desenvolvo soluções corporativas e produtos web. Uso IA para apoiar a implementação e os testes, com revisão de código e CI/CD no Azure DevOps.
 
 [LinkedIn](https://www.linkedin.com/in/ezequiel-lobo-a1336b326/) · [E-mail](mailto:ezeklobo.dev@gmail.com)
 
 ## Projetos em destaque
 
-| Projeto | O que desenvolvi | Links |
-| --- | --- | --- |
-| **NexusClass** | Gestão da rotina de professores. O Gemini apoia dúvidas sobre atividades e, em um fluxo separado, sugere notas e feedback por rubrica para revisão do tutor. | [Código](https://github.com/EzekLobo/nexusclass) · [Demo sem login](https://nexusclass.vercel.app/demo) |
-| **Evolua** | Plataforma de estudo com revisão espaçada e criação de atividades com apoio de IA. A importação valida a estrutura dos pacotes e mostra as referências para conferência. | [Código](https://github.com/EzekLobo/Evolua) · [Demo](https://evolua-cyan.vercel.app) |
-| **InventoryRFID** | Protótipo de inventário patrimonial com leitura RFID e auditorias que comparam os itens esperados com os detectados. | [Código](https://github.com/EzekLobo/inventory-rfid) |
+### NexusClass
+
+Plataforma para gestão da rotina de professores. O Gemini ajuda a esclarecer dúvidas sobre atividades. Em um fluxo separado, sugere notas e feedback com base na rubrica, e o tutor revisa e aprova cada correção.
+
+[Experimentar sem login](https://nexusclass.vercel.app/demo) · [Ver código](https://github.com/EzekLobo/nexusclass)
+
+### Evolua
+
+Plataforma de estudo com revisão espaçada e autoria assistida por IA. Antes de ativar um pacote de atividades, o estudante pode conferir suas referências e revisar o conteúdo na prévia.
+
+[Abrir demo](https://evolua-cyan.vercel.app) · [Ver código](https://github.com/EzekLobo/Evolua)
+
+### InventoryRFID
+
+Protótipo de inventário patrimonial que compara os itens esperados com as etiquetas RFID detectadas para identificar divergências.
+
+[Ver código](https://github.com/EzekLobo/inventory-rfid)
 
 ## Experiência corporativa
 
